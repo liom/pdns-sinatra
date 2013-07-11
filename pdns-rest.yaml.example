@@ -1,0 +1,6 @@
+test:
+    db_name: pdns
+    db_pass: pdns
+    db_user: pdns
+    db_host: localhost
+    port: 9000
